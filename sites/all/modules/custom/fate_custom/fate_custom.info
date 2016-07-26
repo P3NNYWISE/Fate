@@ -1,0 +1,6 @@
+name = Fate_Custom
+description = Fate_Custom
+core = 7.x
+package = Features
+version = 7.x-1.0
+features[features_api][] = api:2
